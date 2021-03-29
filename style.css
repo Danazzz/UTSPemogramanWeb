@@ -50,27 +50,6 @@ section{
     display: flex;
     justify-content: space-evenly;
 }
-img{
-    display: flex;
-    justify-content: space-evenly;
-}
-.content2{
-    padding: 10px;
-    margin-bottom: 10px;
-    text-align: justify;
-    display: flex;
-    justify-content: space-evenly;
- }
- .content3{
-     padding: 10px;
-    margin-bottom: 30px;
-    text-align: justify;
-    display: flex;
-    justify-content: space-evenly;
- }
- h2{
-    font-size: 24pt;
- }
 a:link, a:visited {
     color: blue;
     padding: 14px 25px;
