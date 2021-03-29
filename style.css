@@ -7,24 +7,24 @@
     border: thin solid transparent !important;
 }
 body{
-    background-color: rgb(255, 255, 255);
     font-family: 'Raleway', sans-serif;
-    color: #2b09e7;
+    color:black;
     font-size: 18pt;
+    background-color:bisque;
 }
 header{
     color: #ffffff;
     font-family: 'Roboto Slab', serif;
     font-size: 18pt;
     padding: 20px;
-    background-color:forestgreen;
+    background-color:black;
 }
 footer{
-    color: #ffffff;
+    color: black;
     font-family: 'Roboto Slab', serif;
-    font-size: 18pt;
+    font-size: 12pt;
     padding: 20px;
-    background-color:forestgreen;
+    background-color:rgb(240, 215, 184);
 }
 .container{
     padding: 20px;
@@ -44,7 +44,7 @@ section{
     padding: 15px;
     font-size: 16px;
     width: 200px;
-    background-color: greenyellow;
+    background-color:#ffffff;
 }
 .section-container{
     display: flex;
@@ -72,14 +72,14 @@ img{
     font-size: 24pt;
  }
 a:link, a:visited {
-    color: white;
+    color: blue;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
 }
 a:hover, a:active {
-    color: white;
+    color: purple;
 }
 .center{
     text-align: center;
