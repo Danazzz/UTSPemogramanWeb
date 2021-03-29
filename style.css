@@ -8,18 +8,20 @@
 }
 body{
     background-color: rgb(255, 255, 255);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #2b09e7;
     font-size: 18pt;
 }
 header{
     color: #6495ED;
+    font-family: 'Roboto Slab', serif;
     font-size: 24pt;
     padding: 20px;
     background-color: darkblue;
 }
 footer{
     color: rgb(100, 149, 237);
+    font-family: 'Roboto Slab', serif;
     font-size: 24pt;
     padding: 20px;
     background-color: darkblue;
@@ -41,7 +43,6 @@ section{
     margin-bottom: 20px;
     padding: 15px;
     font-size: 16px;
-    font-family: 'Lucida Handwriting', Cursive;
     width: 200px;
 }
 .section-container{
@@ -79,6 +80,6 @@ a:link, a:visited {
 a:hover, a:active {
     color: white;
 }
-.right{
-    text-align: right;
+.center{
+    text-align: center;
 }
