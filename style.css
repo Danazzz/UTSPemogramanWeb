@@ -24,6 +24,7 @@ footer{
     font-size: 12pt;
     padding: 20px;
     background-color:rgb(240, 215, 184);
+    text-align: center;
 }
 .container{
     padding: 20px;
@@ -54,25 +55,22 @@ section{
     margin-bottom: 20px;
     padding: 15px;
     font-size: 16px;
-    width: 250px;
-    background-color:#ffffff;
+    width: 230px;
 }
 .section-container{
     display: flex;
     justify-content: space-evenly;
 }
 a:link, a:visited {
+    background-color:rgb(255, 255, 255);
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    color:gray; 
+    color:grey;
 }
 a:hover, a:active {
-    color: purple;
-}
-.center-text{
-    text-align: center;
+    color: black;
 }
 .center-img{
     width: 1200px;
@@ -80,4 +78,7 @@ a:hover, a:active {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.kuning{
+    color:#f39c12;
 }
