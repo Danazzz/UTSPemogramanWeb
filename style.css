@@ -66,6 +66,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    color:gray; 
 }
 a:hover, a:active {
     color: purple;
